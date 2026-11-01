@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Source data: download it yourself (see README). Volve is under the Equinor Open Data Licence.
+data/raw/
